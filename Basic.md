@@ -55,6 +55,27 @@
   - The classes for text colors are:.text-muted, .text-primary, .text-success, .text-info, .text-warning, and .text-danger.[Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_txt_colors&stacked=h)<br/>
   - The classes for background colors are:.bg-primary, .bg-success, bg-info, bg-warning, and .bg-danger.[Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_txt_bgcolors&stacked=h)<br/>
   
+  * The Bootstrap classes below can be added to style HTML elements further:
+  
+| Class | Description | Example |
+| :---: | :---: | ----- |
+| .lead | Makes a paragraph stand out | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_txt_lead&stacked=h) |
+| .small | Indicates smaller text (set to 85% of the size of the parent) | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_txt_small&stacked=h) |
+| .text-left | Indicates left-aligned text | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_text-left&stacked=h) |
+| .text-center | Indicates center-aligned text | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_text-left&stacked=h) |
+| .text-right | Indicates right-aligned text | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_text-left&stacked=h) |
+| .text-justify | Indicates justified text | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_text-left&stacked=h) |
+| .text-nowrap | Indicates no wrap text | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_text-left&stacked=h) |
+| .text-lowercase | Indicates lowercased text | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_text-lowercase&stacked=h) |
+| .text-uppercase | Indicates uppercased text | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_text-lowercase&stacked=h) |
+| .text-capitalize | Indicates capitalized text | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_text-lowercase&stacked=h) |
+| .initialism | Displays the text inside an \<abbr> element in a slightly smaller font size | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_txt_abbr2&stacked=h) |
+| .list-unstyled | Removes the default list-style and left margin on list items<br/> (works on both \<ul> and \<ol>). This class only applies to <br/> immediate children list items (to remove the default list-<br/>style from any nested lists, apply this class to any nested <br>lists as well) | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_txt_list-unstyled&stacked=h) |
+| .list-inline | Places all list items on a single line | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_txt_list-inline&stacked=h) |
+| .dl-horizontal | Lines up the terms (\<dt>) and descriptions (\<dd>) in <br/>\<dl> elements side-by-side. Starts off like default \<dl>s, <br/>but when the browser window expands, it will line up side-by-side | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_txt_dl-horizontal&stacked=h) |
+| .pre-scrollable | Makes a \<pre> element scrollable | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_txt_pre&stacked=h) |
+
+
 # Bootstrap Grids
  * Bootstrap's grid system allows up to 12 columns across the page. If you do not want to use all 12 columns individually, you can group the columns together to create wider columns:
  
