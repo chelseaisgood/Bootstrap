@@ -16,3 +16,26 @@
 
 # Bootstrap Grids
  * Bootstrap's grid system allows up to 12 columns across the page. If you do not want to use all 12 columns individually, you can group the columns together to create wider columns:
+ 
+ * The Bootstrap grid system has four classes:
+  - xs (for phones)
+  - sm (for tablets)
+  - md (for desktops)
+  - lg (for larger desktops)
+  
+ * The following is a basic structure of a Bootstrap grid:
+  - First; create a row (\<div class="row">). Then, add the desired number of columns (tags with appropriate .col-\*-\* classes). Note that numbers in .col-\*-\* should always add up to 12 for each row.
+  - For example:<br/>
+   \<div class="row"><br/>
+   &nbsp;&nbsp;&nbsp;\<div class="col-*-*"></div><br/>
+   \</div><br/>
+   \<div class="row"><br/>
+   &nbsp;&nbsp;&nbsp;\<div class="col-\*-\*">\</div><br/>
+   &nbsp;&nbsp;&nbsp;\<div class="col-\*-\*">\</div><br/>
+   &nbsp;&nbsp;&nbsp;\<div class="col-\*-\*">\</div><br/>
+   \</div><br/>
+   \<div class="row"><br/>
+   &nbsp;&nbsp;&nbsp;...<br/>
+   \</div><br/>
+   
+   
