@@ -1,4 +1,4 @@
-### Basic knowledge
+# Basic knowledge
  * The \<meta\> tag provides metadata about the HTML document. Metadata will not be displayed on the page, but will be machine parsable. Meta elements are typically used to specify page description, keywords, author of the document, last modified, and other metadata.
  
  * \<meta name="viewport" content="width=device-width, initial-scale=1"\>
@@ -11,5 +11,8 @@
   
   __Note: Containers are not nestable (you cannot put a container inside another container).__
   
-* \<meta charset="[UTF-8](http://www.w3schools.com/html/html_charset.asp)"\>
-   - Because ANSI and ISO-8859-1 were so limited, the default character encoding was changed to UTF-8 in HTML5. UTF-8 (Unicode) covers almost all of the characters and symbols in the world.
+ * \<meta charset="[UTF-8](http://www.w3schools.com/html/html_charset.asp)"\>
+  - Because ANSI and ISO-8859-1 were so limited, the default character encoding was changed to UTF-8 in HTML5. UTF-8 (Unicode) covers almost all of the characters and symbols in the world.
+
+# Bootstrap Grids
+ * Bootstrap's grid system allows up to 12 columns across the page. If you do not want to use all 12 columns individually, you can group the columns together to create wider columns:
