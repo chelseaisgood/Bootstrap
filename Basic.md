@@ -75,6 +75,7 @@
 | .dl-horizontal | Lines up the terms (\<dt>) and descriptions (\<dd>) in <br/>\<dl> elements side-by-side. Starts off like default \<dl>s, <br/>but when the browser window expands, it will line up side-by-side | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_txt_dl-horizontal&stacked=h) |
 | .pre-scrollable | Makes a \<pre> element scrollable | [Example](http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_ref_txt_pre&stacked=h) |
 
+ * [\<section> vs \<div>](http://stackoverflow.com/questions/6939864/what-is-the-difference-between-section-and-div)
 
 # Bootstrap Grids
  * Bootstrap's grid system allows up to 12 columns across the page. If you do not want to use all 12 columns individually, you can group the columns together to create wider columns:
